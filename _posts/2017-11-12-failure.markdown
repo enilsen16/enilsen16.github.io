@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Failure"
+date:   2017-11-27 22:54:00 +0100
+categories: failure startups learning
+---
+
+Failure is an interesting thing. Of course it’s not something we strive for but it’s bound to happen. I think over the course of the last 10 years(or at least of what I can remember) society as a whole has started to accept failure. Maybe even see it as a stepping stone to be successful later on. (I know that this is the case in Silicon Valley)
+
+Recently I was chatting with a friend, who was talking about how he tried to be brutally and overly honest when he heard others ideas. While I think it is good to be honest, it’s better to help by providing feedback. I know personally of many times where I am asked for an opinion on something and the person does the opposite of what I suggested. Sometimes in the end things work out and sometimes they don’t. The fact that they learned and experienced something is more important.
+
+Another important point is this avoids always telling people their ideas are bad. It’s very easy to put so much effort into an idea that you basically convince yourself that it’s the “best idea ever”. While this may or my not be the case prepared for 100% honesty. It’s hard for the person critiquing your idea to not come off as mean. (Though some people like myself struggle to not immediately jump to negatives instead of highlighting the positives.)
+
+The important lesson here is that people learn a lot better through there own experiences rather than someone telling them what they want to do is not going to work out. If someone wants to build a DIY rocket to go to the moon. It may be better to just double check their math rather than tell them it’s not going to work.
+
+*Thanks for reading. I post content as I think of blog post ideas like this one. To share my experiences in Silicon Valley and all over the world. Hit me up on twitter sometime.*
